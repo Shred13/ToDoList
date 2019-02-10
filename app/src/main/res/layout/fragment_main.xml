@@ -19,5 +19,35 @@
             tools:layout_constraintLeft_creator="1"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="@+id/constraintLayout"/>
+    <TableLayout
+            android:layout_width="351dp"
+            android:layout_height="497dp" tools:layout_editor_absoluteY="0dp" tools:layout_editor_absoluteX="16dp"
+            android:orientation="vertical">
+
+        <TableRow android:layout_width="match_parent" android:layout_height="match_parent"
+                  android:visibility="visible" android:background="@android:color/holo_red_light"
+        >
+            <CheckBox
+                    android:text="CheckBox"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/checkBox2"/>
+            <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/totalEstimate"/>
+            <TextView
+                    android:text="@string/no_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/Timer"
+            />
+            <TextView
+                    android:text="TimeLeft"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/TimeLeft"/>
+        </TableRow>
+        <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    </TableLayout>
 
 </android.support.constraint.ConstraintLayout>
