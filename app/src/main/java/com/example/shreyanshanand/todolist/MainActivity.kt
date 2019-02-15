@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         container.adapter = mSectionsPagerAdapter
 
         fab.setOnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+            Snackbar.make(view, "Action Added!", Snackbar.LENGTH_SHORT)
                 .setAction("Action", null).show()
         }
 
