@@ -13,9 +13,15 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
+import android.widget.TextView
 
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.fragment_main.*
 import kotlinx.android.synthetic.main.fragment_main.view.*
+import java.io.File
+import java.io.InputStream
+import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -39,15 +45,34 @@ class MainActivity : AppCompatActivity() {
         mSectionsPagerAdapter = SectionsPagerAdapter(supportFragmentManager)
 
         // Set up the ViewPager with the sections adapter.
-        container.adapter = mSectionsPagerAdapter
+        //container.adapter = mSectionsPagerAdapter
 
-        fab.setOnClickListener { view ->
+       /* fab.setOnClickListener { view ->
             Snackbar.make(view, "Action Added!", Snackbar.LENGTH_SHORT)
                 .setAction("Action", null).show()
-        }
+        } */
+       // val quotesToUse: List<String> = readFile()
+        val check = readFile()
+        quote.text = "hi"
+        sayer.text = "no"
+
+
+        //quote.text = quotesToUse[0]
+        //author.text = quotesToUse[1]
 
     }
 
+    //fun readFile (): List<String>{
+    fun readFile(): String{
+        val quoteArray : ArrayList<List<String>> = arrayListOf()
+        val InSt : InputStream = resources.openRawResource(R.raw.quotes)
+        val scan  = Scanner(InSt)
+        InSt.bufferedReader().use { it.readText() }
+       // val inputAsString = InSt.bufferedReader().use { quoteArray.add(it.readText().split("`")) }
+        quoteArray.shuffle()
+        return ("hey")
+//        return quoteArray.get(quoteArray.size-1)
+    }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -92,14 +117,17 @@ class MainActivity : AppCompatActivity() {
      */
     class PlaceholderFragment : Fragment() {
 
+
         override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstanceState: Bundle?
         ): View? {
             val rootView = inflater.inflate(R.layout.fragment_main, container, false)
             //rootView.section_label.text = getString(R.string.section_format, arguments?.getInt(ARG_SECTION_NUMBER))
+
             return rootView
         }
+
 
         companion object {
             /**
