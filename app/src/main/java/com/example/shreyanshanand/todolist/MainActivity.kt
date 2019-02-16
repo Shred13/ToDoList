@@ -51,10 +51,10 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Action Added!", Snackbar.LENGTH_SHORT)
                 .setAction("Action", null).show()
         } */
-       // val quotesToUse: List<String> = readFile()
+        val quotesToUse: List<String> = readFile()
         val check = readFile()
-        quote.text = "hi"
-        sayer.text = "no"
+        quote.text = quotesToUse[0]
+        sayer.text = quotesToUse[1]
 
 
         //quote.text = quotesToUse[0]
@@ -62,16 +62,13 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    //fun readFile (): List<String>{
-    fun readFile(): String{
+    fun readFile (): List<String>{
         val quoteArray : ArrayList<List<String>> = arrayListOf()
         val InSt : InputStream = resources.openRawResource(R.raw.quotes)
-        val scan  = Scanner(InSt)
-        InSt.bufferedReader().use { it.readText() }
-       // val inputAsString = InSt.bufferedReader().use { quoteArray.add(it.readText().split("`")) }
+        //val scan  = Scanner(InSt)
+        InSt.bufferedReader().use { quoteArray.add(it.readLine().split("`")) }
         quoteArray.shuffle()
-        return ("hey")
-//        return quoteArray.get(quoteArray.size-1)
+        return (quoteArray.get(0))
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
