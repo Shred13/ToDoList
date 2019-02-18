@@ -8,8 +8,8 @@
                                              tools:context=".MainActivity$PlaceholderFragment">
 
     <TableLayout
-            android:layout_width="365dp"
-            android:layout_height="589dp"
+            android:layout_width="408dp"
+            android:layout_height="721dp"
             android:orientation="vertical" android:id="@+id/TableOfTasks" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="8dp"
@@ -40,15 +40,5 @@
                     android:layout_height="wrap_content" android:id="@+id/TimeLeft" android:paddingLeft="30dp"/>
         </TableRow>
     </TableLayout>
-    <android.support.design.widget.FloatingActionButton
-            android:src="@drawable/fab"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:clickable="true" android:id="@+id/fab"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
-            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
-            android:layout_marginBottom="8dp"
-            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintHorizontal_bias="0.975"
-    />
 
 </android.support.constraint.ConstraintLayout>

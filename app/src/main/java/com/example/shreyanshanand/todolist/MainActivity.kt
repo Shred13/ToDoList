@@ -66,9 +66,11 @@ class MainActivity : AppCompatActivity() {
         val quoteArray : ArrayList<List<String>> = arrayListOf()
         val InSt : InputStream = resources.openRawResource(R.raw.quotes)
         //val scan  = Scanner(InSt)
+
         InSt.bufferedReader().use { quoteArray.add(it.readLine().split("`")) }
         quoteArray.shuffle()
         return (quoteArray.get(0))
+        //TODO GET THE RANDOM WORKING AND THE SPLITTING BETTER
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
