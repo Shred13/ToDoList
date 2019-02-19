@@ -67,9 +67,9 @@ class MainActivity : AppCompatActivity() {
         val InSt : InputStream = resources.openRawResource(R.raw.quotes)
         //val scan  = Scanner(InSt)
 
-        InSt.bufferedReader().use { quoteArray.add(it.readLine().split("`")) }
+        InSt.bufferedReader().useLines { lines -> lines.forEach { quoteArray.add(it.split("`")) } }
         quoteArray.shuffle()
-        return (quoteArray.get(0))
+        return (quoteArray[3])
         //TODO GET THE RANDOM WORKING AND THE SPLITTING BETTER
     }
 
