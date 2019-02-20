@@ -56,10 +56,6 @@ class MainActivity : AppCompatActivity() {
         quote.text = quotesToUse[0]
         sayer.text = quotesToUse[1]
 
-
-        //quote.text = quotesToUse[0]
-        //author.text = quotesToUse[1]
-
     }
 
     fun readFile (): List<String>{
