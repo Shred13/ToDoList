@@ -5,6 +5,7 @@
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen
 import re
+import pickle
 
 schools = []
 url = "https://en.wikipedia.org/wiki/List_of_high_schools_in_Ontario"
@@ -46,32 +47,19 @@ finalList = []
 percentage = 0
 
 for school in SchoolFilter:
-    percentage = (percentage+ 1/len(SchoolFilter))*100
+    percentage = (percentage+ (1/len(SchoolFilter)*100))
     print(percentage)
     checker = str(school[1])
-    reSchool = re.search("([ ]*[a-z]*)*[S|s][c][h][o][o][l]([ ]*[a-z]*)*", checker)
-    reInstitute = re.search("([ ]*[a-z]*)*[I|i][n][s][t][i][t][u][t][e]([ ]*[a-z]*)*", checker)
-    reAcademy = re.search("([ ]*[a-z]*)*[A|a][c][a][d][e][m][y]([ ]*[a-z]*)*", checker)
-    reCollege = re.search("([ ]*[a-z]*)*[C|c][o][l][l][e][g][e]([ ]*[a-z]*)*", checker)
-    reEcole = re.search("([ ]*[a-z]*)*[É|é][c][o][l][e]([ ]*[a-z]*)*", checker)
+    reSchool = re.search("([ ]*[a-z]*)*[S][c][h][o][o][l]([ ]*[a-z]*)*", checker)
+    reInstitute = re.search("([ ]*[a-z]*)*[I][n][s][t][i][t][u][t][e]([ ]*[a-z]*)*", checker)
+    reAcademy = re.search("([ ]*[a-z]*)*[A][c][a][d][e][m][y]([ ]*[a-z]*)*", checker)
+    reCollege = re.search("([ ]*[a-z]*)*[C][o][l][l][e][g][e]([ ]*[a-z]*)*", checker)
+    reEcole = re.search("([ ]*[a-z]*)*[É][c][o][l][e]([ ]*[a-z]*)*", checker)
 
     if reSchool or reInstitute or reAcademy or reCollege or reEcole:
         finalList.append(school)
-
-
-
-# for school in SchoolFilter:
-#     checker = str(school[1]).split()
-#     found = False
-#     percentage = percentage + 1 / len(SchoolFilter)
-#     print(percentage, "% is done")
-#     while (not found):
-#         for check in checker:
-#
-#             if check is "School":
-#                 finalList.append(school)
-#                 found = True
-
 print(finalList)
 
-#TODO DO IT BY SCHOOL BOARD (GO TO WEBSITE AND SEE IF IT EXISTS)
+file = open("SchoolMottos.txt", "wb")    #Pickling
+pickle.dump(finalList, file)
+file.close()
