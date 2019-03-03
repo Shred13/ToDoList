@@ -5,7 +5,7 @@
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlopen
 import re
-import pickle
+import json
 
 schools = []
 url = "https://en.wikipedia.org/wiki/List_of_high_schools_in_Ontario"
@@ -60,6 +60,11 @@ for school in SchoolFilter:
         finalList.append(school)
 print(finalList)
 
-file = open("SchoolMottos.txt", "wb")    #Pickling
-pickle.dump(finalList, file)
-file.close()
+with open("data_file.json", "w") as write_file:
+    json.dump(finalList, write_file)
+
+# with open("mottos.txt", "wb") as fp:   #Pickling
+#     pickle.dump(finalList, fp)
+
+print("hello")
+
