@@ -1,0 +1,419 @@
+Elliot Lake Secondary School', '`', 'Labor Omnia Vincit(Work Conquers All)
+Korah Collegiate & Vocational School', '`', '"A Quoque Optimum"("For his/her best")
+W. C. Eaket Secondary School', '`', '"Nulli Secundus"
+St. Mary's College", '`', 'Teach me Goodness, Discipline, and Knowledge
+Assumption College School', '`', 'Quae Sursum Sunt Quaerite(Seek that which comes from above)
+Kincardine & District Secondary School', '`', 'Virtus, Veritas, Victoria(Excellence, Truth, Success)
+Walkerton District Community School', '`', 'Learn Today, Lead Tomorrow
+Ursuline College', '`', 'Fides, Spes, Caritas(Faith, Hope, Charity)
+Timmins High and Vocational School', '`', 'Latin: Sapientia Omnia Vincit(Wisdom Conquers All)
+École Publique Renaissance', '`', 'Ta route… ta réussite\xa0!(Your path... Your success!)
+O'Gorman High School", '`', 'Omnia Vincit Veritas
+École secondaire catholique Thériault', '`', 'Exceller, Vivre, Grandir(Exceling, Living, Growing)
+Centre Dufferin District High School', '`', 'Partners learning together, creating successful tomorrows
+Anderson Collegiate Vocational Institute', '`', 'Scientia crescat, vita colatur\xa0\xa0(Latin)(English: "Increase knowledge, enrich life")
+Bowmanville High School', '`', 'Non Quantum Sed Quale
+Brock High School', '`', 'Altiora Peto(I Seek Higher Things)
+Courtice Secondary School', '`', 'Amor Sapientiae Floreat
+Dunbarton High School', '`', 'Conari Quaerere Invenire(To Try, To Seek, To Come Upon)
+Eastdale Collegiate and Vocational Institute', '`', 'Industria et Integritas (in Latin)(Industry and Integrity)
+O'Neill Collegiate and Vocational Institute", '`', 'Let Talent Flourish
+Pickering High School', '`', 'Enter to Learn. Go Forth to Serve.
+Pine Ridge Secondary School', '`', 'Maxime Semper Facimus(We always do our best)
+Port Perry High School', '`', '"Ex Obscuritate Ad Lucem" trans. "Out of Darkness toward the Light"
+Sinclair Secondary School', '`', '"A Reputation of Excellence"
+Uxbridge Secondary School', '`', 'Per ardua ad astra(Through struggle to the stars)
+Archbishop Denis O'Connor Catholic High School", '`', 'Nil sine fide et labore
+Father Leo J. Austin Catholic Secondary School', '`', 'Excellence, Faith, Community
+Holy Trinity Secondary School', '`', '"Create, Love, Act"
+Monsignor Paul Dwyer Catholic High School', '`', 'Latin: Veritas Bonitas(Truth and Goodness)
+Notre Dame Catholic Secondary School', '`', 'Caritas, Sapientia, Concordia [1](Charity, Wisdom, Harmony)
+St. Stephen's Secondary School", '`', 'Spirit, Strength, Serenity, Service
+Arthur Voaden Secondary School', '`', 'We Seek, We Strive, We Conquer
+Central Elgin Collegiate Institute', '`', 'Carpe Diem(Seize the Day)
+Parkside Collegiate Institute', '`', 'Animi Cultus Est Pretiosior Auro
+West Elgin Secondary School', '`', '"Non scholae sed vitae discimus"("We learn not for learning alone, but for life")
+Essex District High School', '`', '"Quisque Omnes"
+General Amherst High School', '`', 'lux sit
+Kennedy Collegiate Institute', '`', '"Altiora Peto"("We seek higher things.")
+Riverside Secondary School', '`', 'Rebels are Leaders!
+Vincent Massey Secondary School', '`', 'Dum Laboramus Prosumus(As long as we are working, we are progressing)
+Walkerville Collegiate Institute', '`', '"Nil Sine Labore"("Nothing without work")
+Westview Freedom Academy', '`', 'Skills for Life
+Assumption College School', '`', '"Teach us goodness, discipline and knowledge"
+Cardinal Carter Catholic High School', '`', 'Integreity, Loyalty, Discipline and Understanding, are values which empower us at Cardinal Carter Catholic Secondary. To spread the good news of Jesus Christ, to nurture a love for lifelong learning and to serve others.
+Catholic Central High School', '`', 'Expectat Me In Aliis Christus(Christ waits for me in others)
+F. J. Brennan Catholic High School', '`', 'Caritas(Care)
+Holy Names High School', '`', 'Aliis Non Sibi(For Others, Not Oneself)
+St. Joseph's Catholic High School", '`', 'Fortes in Christo(Strong in Christ)
+École secondaire catholique l'Essor", '`', 'French: l\'Aigle seul à le droit de fixer le soleil("Only the eagle has the right to reach for great heights")
+Bayridge Secondary School', '`', 'Veneratio Bene Virtus Pietas (Latin)(Respect, Optimism, Courage, Kindness)
+Frontenac Secondary School', '`', 'Latin: Ad Optima Nitamur
+Kingston Collegiate and Vocational Institute', '`', 'Maxima Debetur Pueris Reverentia("Youth are entitled to the greatest respect")
+La Salle Secondary School', '`', 'Facite Omnia Bene(Do all things well)
+Loyalist Collegiate and Vocational Institute', '`', 'Take care of yourself. Take care of each other. Take care of this place.
+Queen Elizabeth Collegiate and Vocational Institute', '`', 'Veritas Liberat(The Truth Frees)
+Sydenham High School', '`', 'Spirit, Heritage, Success(Ludum Facite)
+École secondaire publique Mille-Îles', '`', 'felicitas per doctrinam
+Holy Cross Catholic Secondary School', '`', 'Once A Crusader, Always A Crusader!
+Regiopolis-Notre Dame Catholic Secondary School', '`', 'Doctrina Sapientia Per Christum(Learning, Knowledge, Wisdom through Christ)
+McKinnon Park Secondary School', '`', 'Tradition with Change
+Haliburton Highlands Secondary School', '`', '"Once a Hawk, always a Hawk""Live by choice, not by chance"[citation needed]
+Acton District High School', '`', 'Lux Sit(Latin: Let there be light)
+Aldershot High School', '`', 'Veritas Nos Ducat(Truth Shall Lead Us)
+Lester B. Pearson High School', '`', 'Nulli Secundus(Second to none)
+M.M. Robinson High School', '`', 'Per Ardua Ad Scientiam(Through Hard Work, Knowledge)
+Nelson High School', '`', '"Diligens Providens"
+Oakville Trafalgar High School', '`', '"palma non sine pulvere"\n(No reward without effort)
+T. A. Blakelock High School', '`', 'Ad majora natus sum(Latin: I was born for greater things)
+Assumption Catholic Secondary School', '`', 'ave maria ora pro nobis(Hail Mary, pray for us)
+Bishop Paul Francis Reding Catholic Secondary School', '`', 'Together in His name
+Christ the King Catholic Secondary School', '`', 'Equity, Dignity, and Respect
+Notre Dame Catholic Secondary School', '`', '"Home of the Fightin\' Irish!"
+St. Thomas Aquinas Catholic Secondary School', '`', '"aequalitas, veritas, excellentia"("equality, truth, excellence")
+Ancaster High School', '`', 'Scientia Est Libertas[2](Knowledge is Freedom)
+Glendale Secondary School', '`', 'Towards Excellence
+Nora Frances Henderson Secondary School', '`', 'Veritas Omnia Vincit(Truth conquers all)
+Saltfleet District High School', '`', 'Ad Altiora Nitamur (“We strive to the highest”)
+Sir Allan MacNab Secondary School', '`', 'Latin: A bonis ad meliora(From good to better)
+Westdale Secondary School', '`', "Alius Alia Via Ad Astra Ascendit('Each Reach For The Stars In Their Own Way')
+Westmount Secondary School', '`', 'Laboris Dulcedo
+Cathedral High School', '`', 'Probitas et Scientia(Goodness and Knowledge)
+St. Jean de Brebeuf Secondary School', '`', '""Anima, Mens, Corpus" "Soul, Mind, Body"
+Columbia International College', '`', 'Seek, Strive, Succeed
+Hillfield Strathallan College', '`', 'Velle est Posse and Excelsior[1]
+Nicholson Catholic College', '`', 'Quis ut Deus(Who is Like Unto God?)
+St. Theresa Catholic Secondary School', '`', 'Cura Et Audax Virtute(Care and Bold Power)
+Central Huron Secondary School', '`', "'Hinc Lucem'('From this place, Light'--University of Cambridge)
+F.E. Madill Secondary School', '`', '"Fidelis et Paratus"(Faithful and Prepared)
+Goderich District Collegiate Institute', '`', 'Palman non sine pulvere(no palm without dust)
+St. Anne's Catholic Secondary School", '`', 'In alis aquilae("On eagle\'s wings")
+Fenelon Falls Secondary School', '`', 'In Omnia Paratus(Prepared for all things)
+I. E. Weldon Secondary School', '`', 'Curiosity, Industry, Enlightenment
+Lindsay Collegiate and Vocational Institute', '`', 'Lampadia Eile Photes Allois Diadidomen
+St. Thomas Aquinas Secondary School', '`', 'Educating for Life
+Dryden High School', '`', 'Scientia Prevalabit(Knowledge will Prevail)
+Carleton Place High School', '`', 'A photograph of the school from 1924(Enter to learn, go forth to serve)
+Perth and District Collegiate Institute', '`', 'Palmam Qui Meruit Ferat(Let Whoever Earns the Palm Bear It)
+Ernestown Secondary School', '`', 'Amor Doctrinae Floreat
+Napanee District Secondary School', '`', 'Habit Crystalizes Into Character
+A.B. Lucas Secondary School', '`', 'In Perpetuum Optima
+Clarke Road Secondary School', '`', 'Abeunt Studia In Mores(Study Builds Character)
+H.B. Beal Secondary School', '`', 'Integrity, Loyalty, Industry
+London Central Secondary School', '`', 'Sola Nobilitas Scientia(Only in knowledge is there nobility)
+London South Collegiate Institute', '`', 'Virtus Repulsae Nescia Sordidae(Courage will never know ignominious defeat.)
+North Middlesex District High School', '`', 'Knowledge Conquers All
+Oakridge Secondary School', '`', 'Bleed red, blue, and gold
+Sir George Ross Secondary School', '`', "We build each student's tomorrow, every day.
+Westminster Secondary School', '`', 'A Proud Past, A Promising Future.
+Catholic Central High School', '`', 'Virtus et Scientia
+Holy Cross Catholic Secondary School', '`', 'Fortis In Concordia(Strong In Concord or Together We Are Stronger)
+John Paul II Catholic Secondary School', '`', 'Maturare In Dignitatem(Mature in Dignity)
+Mother Teresa Catholic Secondary School', '`', 'Spartans
+Regina Mundi Catholic College', '`', 'Valeam Tibi Servire("That I may be worthy to serve you")
+St. Mary's Catholic High School", '`', 'Christo Unitas("One In Christ")
+Bracebridge and Muskoka Lakes Secondary School', '`', 'Nihil Sine Labore (Latin)(Nothing Without Labour)
+St. Dominic School', '`', 'together in truth and love
+Port Dover Composite School', '`', 'Lux Ex Umbra(Light In Darkness)
+Simcoe Composite School', '`', 'Non sibi sed patriae and The key to SuCceSs is SCS(Not to them but fatherland)
+Waterford District High School', '`', 'Abeunt Studia in Mores(Studies build character)
+Holy Trinity Catholic High School', '`', 'Ut Omnes Unum Sint(That all may be one)
+Campbellford District High School', '`', 'Per vias rectas(Latin "By right ways")
+East Northumberland Secondary School', '`', 'In Sinc, Vigno, Emus(Tradition, Excellence, Heart)
+Eden High School', '`', 'Sanctifica eos in veritate.(Sanctify them by the truth.)
+Governor Simcoe Secondary School', '`', 'Sumus Unus
+Port Colborne High School', '`', 'Ad Astra Per Ardua(To the stars through adversity)
+Sir Winston Churchill Secondary School (St. Catharines)', '`', 'Latin: Facta non verba("Deeds, not words")
+Thorold Secondary School', '`', 'Summum Petite (Seek the Highest!)
+École secondaire Confédération', '`', '"Double héritage...Double effort!"
+Denis Morris Catholic High School', '`', 'Prudentia - Virtus - Intellectus
+Holy Cross Catholic Secondary School', '`', 'Spes Unica
+Lakeshore Catholic High School', '`', 'Think Clearly, Feel Deeply, Act Wisely
+Notre Dame College School', '`', '"Sapere Aude"(Dare to learn)
+St. Francis Catholic Secondary School', '`', '"Make me an instrument of your peace"
+St. Michael Catholic High School', '`', 'Excellence Through Dedication
+Ridley College', '`', 'Terar dum prosim (Latin)(May I be consumed in service)
+Bell High School', '`', 'Vitam Impendere Vero(Seek truth in life)
+Brookfield High School', '`', '"Progrediamur"(May We Move Forward Together)
+Cairine Wilson Secondary School', '`', 'Carpe Diem(Seize the Day)
+Colonel By Secondary School', '`', '"Quod Incepimus Conficiemus"(What We Have Begun, We Shall Finish)
+Earl of March Secondary School', '`', 'Tuum Est(It is Yours)
+Glebe Collegiate Institute', '`', 'In Alta Tende(Strive for the Heights)
+Lisgar Collegiate Institute', '`', 'Alere Flammam(Nourish the Flame)
+Merivale High School', '`', 'Moniti Meliora
+Nepean High School', '`', 'Love purple, Live gold
+Ridgemont High School', '`', 'Knowledge is Power
+Sir Guy Carleton Secondary School', '`', 'The School That Works
+Sir Wilfrid Laurier Secondary School', '`', 'We Strive for the Highest
+École secondaire publique De La Salle', '`', 'Pour la France et la Patrie(For France and our people)
+All Saints Catholic High School', '`', '"Dei Gratia"
+Holy Trinity Catholic High School', '`', 'Faith, Excellence, Truth
+Immaculata High School', '`', 'Study Builds Character
+Lester B. Pearson Catholic High School', '`', 'Learning Believing Participating
+Mother Teresa High School', '`', 'Amor et Dignitas(Love and Dignity)
+Notre Dame High School', '`', '"A place for everyone"
+St. Joseph High School', '`', 'Dedication Today, Success Tomorrow
+St. Mark Catholic High School', '`', '"Respect & Responsibility"
+St. Matthew High School', '`', '"PEOPLE TOGETHER WITH PURPOSE"
+St. Patrick's High School", '`', 'Religio Alit Artes
+St. Paul High School', '`', 'Fill Your Minds With All That Is True
+St. Peter High School', '`', '"Dedicated to Excellence"
+St. Pius X High School', '`', 'To establish all things in Christ
+École secondaire catholique Béatrice-Desloges', '`', 'Pour la Patrie, Pour la France(For our people, for France)
+École secondaire catholique Franco-Cité', '`', "Un envol vers l'avernir....(A flight into the future...)
+École secondaire catholique Garneau', '`', 'Apprendre pour devenir(Learn to become)
+Glendale High School', '`', 'Scientia Est Vita(Knowledge is life)
+Ingersoll District Collegiate Institute', '`', 'Latin: Emitte Luciem("To Emit Light")
+St. Mary's Catholic High School", '`', 'Christo Unitas("One In Christ")
+Almaguin Highlands Secondary School', '`', "This is Why We're Awesome
+Parry Sound Intermediate & High School', '`', 'Omnia Vestigia Prorsum("All Steps Forward")
+Bramalea Secondary School', '`', '"The future belongs to those who prepare for it."
+Cawthra Park Secondary School', '`', '"Learning the art of Living...Living the art of Learning"
+Central Peel Secondary School', '`', 'Vires Acquirit Crescendo (Gathering Strength as it Grows)
+Clarkson Secondary School', '`', 'Committed to Excellence
+David Suzuki Secondary School', '`', 'Be the change
+Erindale Secondary School', '`', 'Let all who merit bear the palm
+Glenforest Secondary School', '`', 'Participate, Respect, Achieve(Participer, de respecter, de réaliser)
+Harold M. Brathwaite Secondary School', '`', 'Dream, Believe, Succeed
+Heart Lake Secondary School', '`', 'Character Counts!
+Humberview Secondary School', '`', 'Education is not a business.
+Lorne Park Secondary School', '`', 'Portam Futuro Aperimus(Opening the Doors to the Future)
+Louise Arbour Secondary School', '`', 'Soaring for Success
+Mayfield Secondary School', '`', 'To strive, to seek, to find
+Mississauga Secondary School', '`', 'Be Fit to Learn and Learn to Be Fit
+Port Credit Secondary School', '`', '"Lux Numquam Desit!" - "May the Light Never Fail!"
+Rick Hansen Secondary School', '`', '"Never Give Up on Your Dreams""The End Is Just The Beginning"- Rick HansenSTORM:(STEWARDSHIPTECHNOLOGYOPPORTUNITYRESPONSIVENESSMETACURRICULUM)
+Streetsville Secondary School', '`', 'Esse Quam Videri(To Be Rather than to Seem)
+Thomas L. Kennedy Secondary School', '`', 'Lead, Inspire, Achieve
+Turner Fenton Secondary School', '`', 'Remis velisque
+Archbishop Romero Catholic Secondary School', '`', 'Dream. Choose. Act. Succeed.
+Ascension of Our Lord Secondary School', '`', 'Veni, Sequere Me - Come, Follow Me
+Cardinal Leger Secondary School', '`', 'Growing in truth and love.
+Father Michael Goetz Secondary School', '`', 'Take a risk, Get involved, Be Committed!
+Holy Name of Mary Secondary School', '`', '"Act justly, Love tenderly, Walk humbly with our God"
+Iona Catholic Secondary School', '`', '"Life is a Gift, Faith is a Journey, Learning is Our Challenge"
+Loyola Catholic Secondary School', '`', 'Gloria Dei Vita Pleina
+Notre Dame Catholic Secondary School', '`', 'Justice, Love and Peace
+Our Lady of Mount Carmel Secondary School', '`', 'One through prayer and learning
+St. Aloysius Gonzaga Secondary School', '`', '"For The Greater Glory of God"
+St. Augustine Catholic Secondary School', '`', 'Ever Ancient, Ever New.
+St. Edmund Campion Secondary School', '`', 'Named Called Chosen
+St. Joan of Arc Catholic Secondary School', '`', 'Courage to Believe
+St. Joseph's Secondary School", '`', '"Carpe Diem"("Seize the Day")
+St. Marcellinus Secondary School', '`', 'Let Every Spirit Soar
+St. Marguerite d'Youville Secondary School", '`', 'To Trust, To Risk, To Love, To Serve
+St. Martin Secondary School', '`', 'Goodness, Discipline and Knowledge
+St. Paul Secondary School', '`', 'Omnia cum corde[1](Everything with heart)
+St. Roch Catholic Secondary School', '`', 'Lux mentis... Lux orbis(Light of the Mind... Light of the World)
+École secondaire catholique Sainte-Famille', '`', 'Croire et Grandir(Believe and Grow)
+Bronte College', '`', 'Learning to Understand
+Kenner Collegiate Vocational Institute', '`', 'OMNIA PER LABORUM(Success Through Work)
+Thomas A. Stewart Secondary School', '`', 'True to Self
+St. Peter's Secondary School", '`', 'Per Angusta, Ad Augusta(Through trials, to triumph.)
+Rockland District High School', '`', 'Knowledge, Integrity, Dedication
+Fort Frances High School', '`', 'Palma Non Sine Pulvere(No Reward without Effort)
+Arnprior District High School', '`', 'Hodie Non Cras
+Fellowes High School', '`', 'Opportunity for Growth and Success
+Georgian Bay District Secondary School', '`', 'Latin: scientiae non est vicarius("For knowledge there is no substitute")
+Twin Lakes Secondary School', '`', 'Strength in Knowledge
+Holy Trinity School', '`', 'We Grow Through Love and Example
+St. Joseph's High School", '`', 'Scienta et Bonitas(Knowledge and Integrity)
+Cornwall Collegiate and Vocational School', '`', 'Labor Ipse Voluptas (lat. Work is Pleasure)
+Holy Trinity Catholic Secondary School', '`', '“Falcons, we got the spirit!”
+Espanola High School', '`', 'scientia est sapientia (Latin)(knowledge and wisdom (English))
+Lasalle Secondary School', '`', 'Nulli Secondus(Second to None)
+Lockerby Composite School', '`', 'Scientia nos ducet(Knowledge Will Lead Us)
+Bishop Alexander Carter Catholic Secondary School', '`', 'Because we believe
+St. Charles College', '`', 'Goodness, Discipline, Knowledge
+Sir Winston Churchill Collegiate & Vocational Institute', '`', 'Trojan Pride, Trojan Power, Trojan Promise
+Westgate Collegiate & Vocational Institute', '`', 'Latin: Semper Solum Optimum  (Always, Only the Best)
+St. Patrick High School', '`', 'Fide Et Labore Valebo (Through Faith and Hard Work I shall succeed)
+École secondaire catholique de la Vérendrye', '`', "Ensemble, bâtissons notre avenir(Let's build our future together)
+Kirkland Lake District Composite School', '`', 'Integrity, Skill, Excellence
+Alderwood Collegiate Institute', '`', 'Scientia Cum Amicitia(With the knowledge of Friendship)
+Agincourt Collegiate Institute', '`', 'Ad Omnia Paratus(Prepared for all things)
+Albert Campbell Collegiate Institute', '`', '"Ne Obliviscaris"(Forget Not)
+L'Amoreaux Collegiate Institute", '`', 'Small School, Big Heart  The Jewel of the North EastFreedom with Responsibility
+Avondale Secondary Alternative School', '`', 'Educare Momentum(Each Moment Drips With Possibility)
+Bendale Business and Technical Institute', '`', 'Flourish Through Industry
+David and Mary Thomson Collegiate Institute', '`', 'Nil Sine Magno Labore(Nothing without great effort)
+Birchmount Park Collegiate Institute', '`', 'Latin: Vertias Omnia Vincit(Truth Conquers All)
+Bishop Allen Academy', '`', 'Gaudete In Domino
+Blessed Cardinal Newman Catholic High School', '`', 'Cor ad Cor LoquiturHeart speaks to heart
+Bloor Collegiate Institute', '`', 'Quod Incepimus Conficiemus(What We Have Begun, We Shall Finish.[2])
+Brebeuf College School', '`', 'Men for Others since 1963Studio Gradum Faciant(To Win Merit Through Study)
+Brother Edmund Rice Catholic Secondary School', '`', 'In amore Christi Crescere(Grow in the Love of Christ)
+Cardinal Carter Academy for the Arts', '`', 'Artes Dei Gloria(Arts for the Glory of God)
+Cedarbrae Collegiate Institute', '`', 'Hic Patet Ingeniis Campus(Here is a place where you can develop your talents)
+Central Technical School', '`', 'To strive, to seek, to find, and not to yield
+Chaminade College School', '`', 'Fortes in Fide(Strong in Faith)
+Danforth Collegiate and Technical Institute', '`', 'Faciendo Discimus(We Learn by Doing)
+Dante Alighieri Academy', '`', 'Character and Charity, Scholarship and Service
+Dr Norman Bethune Collegiate Institute', '`', 'Debonnaire(Confident, courteous, and charming)
+Don Mills Collegiate Institute', '`', 'Omnia per scientiam(All things through knowledge)
+Downsview Secondary School', '`', 'Knowledge is Power!
+Drewry Secondary School', '`', 'Respect Yourself, Respect Others, Take Responsibility.
+Earl Haig Secondary School', '`', 'Carpe Diem("Seize the day")
+East York Collegiate Institute', '`', 'Honos Per Ministrium(Honour through Service)
+Eastern Commerce Collegiate Institute', '`', 'Enter to Learn, Go Forth to Serve.
+École secondaire catholique Mgr-de-Charbonnel', '`', "Rien de moins que l'excellence(Nothing less than excellence)
+École secondaire Étienne-Brûlé', '`', 'Unité dans la diversité(Unity in diversity)
+Emery Collegiate Institute', '`', 'Latin: Enisus Caelum Inveniat(One who strives may reach the sky!)
+Etobicoke Collegiate Institute', '`', 'Semper Ad Meliora(Always Towards the Better)
+Etobicoke School of the Arts', '`', 'Vita Brevis Est, Ars Longa[1](Life is brief, art is long)
+Father John Redmond Catholic Secondary School and Regional Arts Centre', '`', 'Cursum Consumavi Fidem Servavi(I Have Finished The Race, I Have Kept The Faith)
+Forest Hill Collegiate Institute', '`', 'Non Nobis SolumNot For Ourselves Alone
+Francis Libermann Catholic High School', '`', 'Inter Mutanda Constantia(Steadfast in the midst of change)
+George S. Henry Academy', '`', 'Studere est Excellere(To Strive is to Excel)
+Georges Vanier Secondary School', '`', 'Scholarship, Spirit, Social Responsibility! We believe it! We live it!
+Greenwood Secondary School', '`', 'Faciendo Discimus(We Learn by Doing)
+Harbord Collegiate Institute', '`', 'Virtus et Doctrina
+Father Henry Carr Catholic Secondary School', '`', 'Domine ut videam(Lord that I might see)
+Humberside Collegiate Institute', '`', 'Felix qui potuit rerum cognoscere causas.(Happy is he who knows the causes of (reasons for) things.)
+Inglenook Community High School', '`', '"Subvert the dominant paradigm "
+James Cardinal McGuigan Catholic High School', '`', 'Deus Meus et Omnia(My God and My All)
+Jarvis Collegiate Institute', '`', 'Nil Decet Invita Minerva ("Nothing is seemly, unless with Minerva, Goddess of Wisdom")
+Keiller Mackay Collegiate Institute', '`', '"Manu Forti"(Strong Hands)
+Don Bosco Catholic Secondary School', '`', 'Crescamus in Christum(Let us Grow in Christ)
+Bishop Allen Academy', '`', 'Gaudete In Domino
+Kipling Collegiate Institute', '`', 'Portas ad Futura Aperimus(We open the doors to the future)
+Lakeshore Collegiate Institute', '`', 'Futurum Doctrina et Concordia Prospice(Look to the Future with Knowledge and Friendship)
+St. Patrick's Catholic Secondary School", '`', 'Amor Christi nos impellit(The Love of Christ Impels Us)
+Lawrence Park Collegiate Institute', '`', 'Amor Doctrinae Floreat(Let the love of learning flourish)
+Leaside High School', '`', '"Seas Gu Dileas"(Stand Faithfully)
+Lester B. Pearson Collegiate Institute', '`', 'Peace Through Understanding
+Lewis S. Beattie Secondary School', '`', 'Respect Yourself, Respect Others, Take Responsibility.
+École secondaire catholique Monseigneur-de-Charbonnel', '`', "Rien de moins que l'excellence(Nothing less than excellence)
+Loretto Abbey Catholic Secondary School', '`', 'Cruci Dum Spiro Fido(Throughout My Life, I Shall Place My Hope in the Cross)
+Loretto College School', '`', 'Cruci dum Spiro Fido(Throughout My Life, I Shall Place My Hope in the Cross)
+Madonna Catholic Secondary School', '`', 'Fides Concordia Justitia(Faith, Charity & Justice)
+Malvern Collegiate Institute', '`', 'Victrix Sapientia Fortunae(Wisdom Conquers Fortune)
+Maplewood High School', '`', 'Building Futures
+Marshall McLuhan Catholic Secondary School', '`', 'Faith Is Our Medium
+Martingrove Collegiate Institute', '`', 'Latin: Lumen in Vobis Est(The Light is Within You)
+Mary Ward Catholic Secondary School', '`', 'Because We Believe
+Midland Avenue Collegiate Institute', '`', 'Semper Ad Optimum(Always Striving for the Best)
+Regina Pacis Catholic Secondary School', '`', 'Pax et Lux(Peace and Light)
+Monsignor Percy Johnson Catholic Secondary School', '`', 'Heart Speaks To Heart
+Neil McNeil High School', '`', 'Fidelitas in Arduis(Faith in Hard Times)
+Nelson A. Boylen Collegiate Institute', '`', 'Good things come from small schoolsVeritas et Virtus(Truth and virtue)
+Newtonbrook Secondary School', '`', 'Quisque Pro Ingenio (To each according to his/her own talent)
+North Albion Collegiate Institute', '`', 'Virtus, Officium, Vertias(Excellence, Service, Truth)
+North Toronto Collegiate Institute', '`', 'Labor Omnia Vincit(Hard Work conquers all)
+Northern Secondary School', '`', 'The Pride, The Spirit."Hail Dear Old Northern"
+Notre Dame High School', '`', 'Leadership, Excellence and service in a dynamic environment Ubi Honor Ibi Sum(Where there is honour, there am I)
+R. H. King Academy', '`', 'We care, we strive, we serveDiligimus Quaerimus Servimus(Through hard task of wisdom)
+Richview Collegiate Institute', '`', 'Monumentum Aere Perennius(A monument more lasting than bronze)
+Riverdale Collegiate Institute', '`', 'Studia Adolescentiam Alunt(Education Nourishes Youth)
+Royal York Collegiate Institute', '`', 'Cum Aliis, Pro Aliis(With others, For others)
+Etobicoke School of the Arts', '`', 'Vita Brevis Est, Ars Longa[1](Life is brief, art is long)
+Runnymede Collegiate Institute', '`', 'Vestigia Nulla Retrorsum(No Steps Backward)
+St. Basil-the-Great College School', '`', 'Excelsa Petite(Strive for that which is great)
+St. John Paul II Catholic Secondary School', '`', 'Laudetur Jesus Christus(Praised be Jesus Christ)
+St. Joseph's College School", '`', 'Congregavit nos in unum Christi amor(The love of Christ has gathered us together into one)
+St. Joseph's Morrow Park Catholic Secondary School", '`', 'Congregavit nos in unum Christi amor(The love of Christ has gathered us together into one)
+St. Mary Catholic Academy', '`', 'That they may have life
+St. Michael's Choir School", '`', 'Bis orat qui cantat(He whom singeth, prayeth twofold.)
+SATEC @ W. A. Porter Collegiate Institute', '`', 'Vincit qui se vincit(He conquers who conquers himself)
+Senator O'Connor College School", '`', 'Audax et Fidelis(Courageous and Faithful)
+Silverthorn Collegiate Institute', '`', '"Nil Veriteur Veritas"(Truth Fears Nothing)
+Sir John A. Macdonald Collegiate Institute', '`', 'Prudentia et Scientia(Vision and Knowledge)
+Sir Oliver Mowat Collegiate Institute', '`', 'De Monte Alto(From a mount high)
+Sir Robert L. Borden Business and Technical Institute', '`', 'Auspicium Melioris Aevi(Hope Of A Better Age)
+Sir Sandford Fleming Academy', '`', 'Motto: Scientia Est Potentia("Knowledge Is Power")
+Dante Alighieri Academy (Beatrice Campus)', '`', 'Character and Charity, Scholarship and Service
+Sir Wilfrid Laurier Collegiate Institute', '`', 'Hoc Tempus est Tibi(This Time is for You)
+Stephen Leacock Collegiate Institute', '`', 'Tuum Est(It is up to you)
+Subway Academy II', '`', 'We must act as if our institutions are ours to create, our learning is ours to define, our leadership we seek is ours to become.
+Tabor Park Vocational School', '`', 'Forward Step by Step
+Jean Vanier Catholic Secondary School', '`', 'Academics • Arts • Athletics • TechnologyIn the Service of the CommunityThrough Knowledge Toward God
+Thistletown Collegiate Institute', '`', 'Scientia Crescat Vita Colatur(Let knowledge grow so that life may be enriched)
+Vaughan Road Academy', '`', 'In Medium Quaesita Reponunt(They lay up in store for common use whatever they have gained)
+Victoria Park Collegiate Institute', '`', 'Perge et Perage"Take Action and Pursue our Goals with Enthusiasm"
+Vincent Massey Collegiate Institute', '`', 'Alta Petens(Seeking the Heights)
+Michael Power/St. Joseph High School', '`', 'Doce Me Bonitatem et Disciplinam et ScientiamTeach me goodness, discipline, and knowledge•Congregavit nos in unum Christi amorThe love of Christ has gathered us together into one
+West Hill Collegiate Institute', '`', 'Latin: Surgo in Lucem(I rise into the light)
+West Humber Collegiate Institute', '`', 'Achievement through effort
+Bishop Marrocco/Thomas Merton Catholic Secondary School', '`', 'Create. Collaborate. Innovate.To Think. To Pray. To Serve.
+Weston Collegiate Institute', '`', 'Manu Cordeque ("With Hand and With Heart")
+Westview Centennial Secondary School', '`', 'Nos Omnia Tentemus(Let Us Attempt All Things)
+Wexford Collegiate School for the Arts', '`', 'Palman Qui Meruit Ferat(Let him bear the palm who has deserved it)
+William Lyon Mackenzie Collegiate Institute', '`', 'Sua Praemia Laudi(Merit Has its own Reward)
+Winston Churchill Collegiate Institute', '`', 'Your Community Place for LearningFides, Virtus, Doctrina(Faith, Excellence, Knowledge)
+Woburn Collegiate Institute', '`', 'Latin: Studium Eruditionis Crescat(Let the Zeal for Learning Flourish)
+York Humber High School', '`', 'Factum Prosperitas(Build the Future)
+St. Oscar Romero Catholic Secondary School', '`', 'Community, Justice, and Knowledge
+York Memorial Collegiate Institute', '`', 'Macte Nova Virtute(Go Forth With New Strength)
+York Mills Collegiate Institute', '`', 'Labore et prudentia("through effort and intelligence")
+Bendale Business and Technical Institute', '`', 'Flourish Through Industry
+David and Mary Thomson Collegiate Institute', '`', 'Nil Sine Magno Labore(Nothing without great effort)
+Father Henry Carr Catholic Secondary School', '`', 'Domine ut videam(Lord that I might see)
+Don Bosco Catholic Secondary School', '`', 'Crescamus in Christum(Let us Grow in Christ)
+Bishop Allen Academy', '`', 'Gaudete In Domino
+St. Patrick's Catholic Secondary School", '`', 'Amor Christi nos impellit(The Love of Christ Impels Us)
+École secondaire catholique Monseigneur-de-Charbonnel', '`', "Rien de moins que l'excellence(Nothing less than excellence)
+Regina Pacis Catholic Secondary School', '`', 'Pax et Lux(Peace and Light)
+Etobicoke School of the Arts', '`', 'Vita Brevis Est, Ars Longa[1](Life is brief, art is long)
+Dante Alighieri Academy (Beatrice Campus)', '`', 'Character and Charity, Scholarship and Service
+Jean Vanier Catholic Secondary School', '`', 'Academics • Arts • Athletics • TechnologyIn the Service of the CommunityThrough Knowledge Toward God
+Michael Power/St. Joseph High School', '`', 'Doce Me Bonitatem et Disciplinam et ScientiamTeach me goodness, discipline, and knowledge•Congregavit nos in unum Christi amorThe love of Christ has gathered us together into one
+Bishop Marrocco/Thomas Merton Catholic Secondary School', '`', 'Create. Collaborate. Innovate.To Think. To Pray. To Serve.
+St. Oscar Romero Catholic Secondary School', '`', 'Community, Justice, and Knowledge
+Bluevale Collegiate Institute', '`', "Non Quis Sed Quid(It's not who you are, but what you are.)
+Eastwood Collegiate Institute', '`', 'Ex Oriente Lux(From the East Comes Light)
+Elmira District Secondary School', '`', 'Ab obscuritate ad lucem("From darkness into light")
+Forest Heights Collegiate Institute', '`', 'Sit Tuum Tollere(Yours to hold high)
+Galt Collegiate Institute and Vocational School', '`', 'Semper Paratus(Always Prepared)
+Glenview Park Secondary School', '`', 'Per Ardua Scientia
+Grand River Collegiate Institute', '`', 'GRCI
+Kitchener-Waterloo Collegiate and Vocational School (KCI)', '`', 'Veritas Vincat(May Truth Prevail)
+Preston High School', '`', 'Aeterna non caduca.(Things that last, never perish.)
+Sir John A. Macdonald Secondary School', '`', 'Audere est credere(Dare to believe)
+Southwood Secondary School', '`', 'Nihil Sine Labore(Nothing Without Work)
+Waterloo Collegiate Institute', '`', 'Excelsior
+Waterloo-Oxford District Secondary School', '`', 'Carpe diem(Seize the day)
+Monsignor Doyle Catholic Secondary School', '`', 'We walk the path of learning, faith, and respect together.
+Resurrection Catholic Secondary School', '`', '"Learning, Growing, Building. Making a Difference."
+St. Benedict Catholic Secondary School', '`', 'A Celebration of People
+St. Mary's High School", '`', 'Virtus et Scientia(Truth and Knowledge)
+École secondaire Père-René-de-Galinée', '`', 'Je m\'implique, Je m\'engage, Je réussis!\n(French: "I\'m involved, I\'m engaged, I succeed!)
+Centennial Collegiate Vocational Institute', '`', 'Palma Per Ardua(Latin: "Success through hard work")
+Centre Wellington District High School', '`', 'Dulcius ex asperis
+Guelph Collegiate Vocational Institute', '`', 'Hic Patet Ingeniis Campus("Here lies open the field for the quest of knowledge=Lambo.")
+John F. Ross Collegiate Vocational Institute', '`', 'Respect: give it, get it. It goes both ways(Always Progressing)
+Norwell District Secondary School', '`', 'Qui se vincit fortiter stat(He who conquers himself stands strong)
+Wellington Heights Secondary School', '`', 'Pride, Respect, Friendship
+Bishop Macdonell Catholic High School', '`', 'Wisdom, Honour, Courage
+Our Lady of Lourdes Catholic High School', '`', 'Knowledge, Goodness and Discipline
+St. James Catholic High School', '`', 'Honour is My Guide
+Aurora High School', '`', 'Nothing But Our Best
+Bayview Secondary School', '`', 'Friends Learning Together
+Bill Crothers Secondary School', '`', 'To Develop In Students The Love Of Sport Through Learning, And The Love Of Learning Through Sport
+Dr. G.W. Williams Secondary School', '`', 'Mens sana in corpore sano(A sound mind in a sound body)
+Huron Heights Secondary School', '`', 'Reach for the Heights
+King City Secondary School', '`', 'Semper progrediens[2](Always progressing)
+Maple High School', '`', 'Working Together Toward Student Success
+Markville Secondary School', '`', 'Living, Sharing and Learning Together
+Middlefield Collegiate Institute', '`', '"High Expectations, High Achievement"
+Newmarket High School', '`', 'Labor Omnia Vincit(Work Conquers All)
+Pierre Elliott Trudeau High School', '`', 'Strive Higher, Soar Further
+Richmond Green Secondary School', '`', '"Where tomorrow begins"
+Richmond Hill High School', '`', "Sapere Aude(Latin, variously translated as: 'Dare to Learn', 'Dare to Know', 'Dare to be Wise', 'Have the courage to think for yourself' or 'Have courage to use your own reason')
+Thornhill Secondary School', '`', 'Post Proelium Praemium - "After the Struggle, the Reward"
+Thornlea Secondary School', '`', 'Think and be thought of
+Unionville High School', '`', 'Create and Achieve
+Vaughan Secondary School', '`', 'Ficta Fiunt Res Gestae(Turning Dreams into Action)
+Woodbridge College', '`', 'Excellentia per dedicationem(Excellence through commitment[3])
+St. Brother André Catholic High School', '`', 'In Lumine Tuo(In Your Light)
+Cardinal Carter Catholic High School', '`', 'Pax et Lux
+Father Bressani Catholic High School', '`', 'Omnia in Christo(All things in Christ)
+Father Michael McGivney Catholic Academy', '`', 'All things in Christ
+Holy Cross Catholic Academy', '`', 'Sharing the Future
+Our Lady of the Lake Catholic College School', '`', '"My soul proclaims the greatness of the Lord."
+Sacred Heart Catholic High School', '`', '"A community called to share in the development of the whole person"
+St. Augustine Catholic High School', '`', 'Caritas Veritas Unitas(Charity, Truth, Unity)
+St. Jean de Brebeuf Catholic High School', '`', 'Eruditio mentis animae nutrimen(Educating the mind, nurturing the soul)
+St. Joan of Arc Catholic High School', '`', 'En esprit et en vérité(In spirit and in truth)
+St. Maximillian Kolbe Catholic High School', '`', 'Choice not chance determines destiny
+St. Robert Catholic High School', '`', 'Knowledge is the Beginning
+St. Theresa of Lisieux Catholic High School', '`', "Parva tamen magna cum caritate age (Latin, variously translated as 'Do small but great things with love' or 'Nevertheless, do [even] small things with great charity')
