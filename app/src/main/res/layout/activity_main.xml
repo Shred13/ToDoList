@@ -25,7 +25,7 @@
         <TextView
                 android:text="Quote here"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="31dp"
                 android:id="@+id/quote"
                 android:gravity="center"
                 android:layout_below="@+id/timer"

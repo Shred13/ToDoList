@@ -53,17 +53,20 @@ class MainActivity : AppCompatActivity() {
         } */
         val quotesToUse: List<String> = readFile()
         val check = readFile()
-        quote.text = quotesToUse[0]
-        sayer.text = quotesToUse[1]
+        quote.text = quotesToUse[1]
+        val a = "~ "+ quotesToUse[0]
+        sayer.text = a
+
+
 
     }
 
     fun readFile (): List<String>{
         val quoteArray : ArrayList<List<String>> = arrayListOf()
-        val InSt : InputStream = resources.openRawResource(R.raw.quotes)
+        val InSt : InputStream = resources.openRawResource(R.raw.final_mottoes)
         //val scan  = Scanner(InSt)
 
-        InSt.bufferedReader().useLines { lines -> lines.forEach { quoteArray.add(it.split("`")) } }
+        InSt.bufferedReader().useLines { lines -> lines.forEach { quoteArray.add(it.split("', '`', '")) } }
         quoteArray.shuffle()
         return (quoteArray[3])
         //TODO GET THE RANDOM WORKING AND THE SPLITTING BETTER
