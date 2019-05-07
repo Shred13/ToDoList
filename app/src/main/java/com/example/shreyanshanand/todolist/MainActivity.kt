@@ -1,5 +1,7 @@
 package com.example.shreyanshanand.todolist
 
+import android.content.res.ColorStateList
+import android.graphics.Color
 import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity
 
@@ -8,11 +10,14 @@ import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentPagerAdapter
 import android.support.v4.view.ViewPager
 import android.os.Bundle
+import android.support.v4.widget.CompoundButtonCompat
+import android.support.v7.widget.LinearLayoutManager
 import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
+import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.TextView
 
@@ -34,6 +39,8 @@ class MainActivity : AppCompatActivity() {
      * [android.support.v4.app.FragmentStatePagerAdapter].
      */
     private var mSectionsPagerAdapter: SectionsPagerAdapter? = null
+    private lateinit var linearLayoutManager: LinearLayoutManager
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -57,7 +64,25 @@ class MainActivity : AppCompatActivity() {
         val a = "~ "+ quotesToUse[0]
         sayer.text = a
 
+        val states = arrayOf(intArrayOf(android.R.attr.state_checked), intArrayOf())
+        //to customize the colours, the first one is checked - second is unchecked
+        val colors = intArrayOf(Color.WHITE, Color.WHITE)
 
+        CompoundButtonCompat.setButtonTintList(checkBox2, ColorStateList(states, colors))
+
+//         val gun =  CheckBox(this)
+//        gun.text = "1"
+//        lister.addView(gun)
+
+        linearLayoutManager = LinearLayoutManager(this)
+        recycleView.layoutManager = linearLayoutManager
+
+
+    }
+
+
+    fun fabClick(view: View){
+        toRepeat.visibility = View.VISIBLE
 
     }
 
@@ -69,7 +94,6 @@ class MainActivity : AppCompatActivity() {
         InSt.bufferedReader().useLines { lines -> lines.forEach { quoteArray.add(it.split("', '`', '")) } }
         quoteArray.shuffle()
         return (quoteArray[3])
-        //TODO GET THE RANDOM WORKING AND THE SPLITTING BETTER
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
